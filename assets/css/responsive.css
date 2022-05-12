@@ -1,0 +1,25 @@
+@media (max-width: 739px) {
+    .image-header-text {
+        margin-top: 0px;
+    }
+    .product-search:hover{
+        width: 170px !important;
+    }
+    .subscribe {
+        height: 250px;
+        font-size: 11px;
+    }
+    .subscribe__title, .subscribe__copy {
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .subscribe .form__email {
+        width: 250px;
+        font-size: 13px;
+    }
+    .subscribe .form__button {
+        width: 100px;
+    }
+}
